@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/akash19-ak/Practice-Problems/tree/master/0260-single-number-iii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/akash19-ak/Practice-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
