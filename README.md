@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akash19-ak/Practice-Problems/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/akash19-ak/Practice-Problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
