@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akash19-ak/Practice-Problems/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/akash19-ak/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/akash19-ak/Practice-Problems/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akash19-ak/Practice-Problems/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/akash19-ak/Practice-Problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/akash19-ak/Practice-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
