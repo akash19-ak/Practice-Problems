@@ -17,9 +17,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akash19-ak/Practice-Problems/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0043-multiply-strings) |
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/akash19-ak/Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/akash19-ak/Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akash19-ak/Practice-Problems/tree/master/0242-valid-anagram) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/akash19-ak/Practice-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akash19-ak/Practice-Problems/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
