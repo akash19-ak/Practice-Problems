@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/akash19-ak/Practice-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akash19-ak/Practice-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akash19-ak/Practice-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akash19-ak/Practice-Problems/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/akash19-ak/Practice-Problems/tree/master/0520-detect-capital) |
 ## Two Pointers
 |  |
@@ -47,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/akash19-ak/Practice-Problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
